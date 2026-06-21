@@ -22,7 +22,8 @@ SPM12 is freely available at: https://www.fil.ion.ucl.ac.uk/spm/software/spm12/
 ## Data
 
 Raw fMRI data are available on OpenNeuro:
-> https://doi.org/10.18112/openneuro.dsXXXXX.v1.0.0
+> [https://doi.org/10.18112/openneuro.dsXXXXX.v1.0.0](https://openneuro.org/datasets/ds007988)
+> Data are available on OpenNeuro at Accession Number: ds007988
 
 ---
 
