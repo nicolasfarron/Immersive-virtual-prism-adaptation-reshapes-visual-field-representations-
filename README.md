@@ -7,7 +7,7 @@ Analysis code for:
 Farron N, Wilf M, Perez-Marcos D, Perrin H, Serino A, Clarke S, Crottaz-Herbette S (2026)
 
 ---
-## Permanant deposite
+## Permanent deposite
 https://doi.org/10.5281/zenodo.20784889
 
 ## Software requirements
