@@ -157,8 +157,7 @@ Nine t-contrasts estimated per subject:
 
 Nicolas Farron
 nicolas.farron@chuv.ch
-Service of Neuropsychology and Neurorehabilitation
-Lausanne University Hospital (CHUV), Switzerland
+Service of Neuropsychology and Neurorehabilitation and Paediatric Neurology and Neurorehabilitation Unit, Department of Paediatrics Lausanne University Hospital (CHUV), Switzerland
 
 ---
 
